@@ -1,6 +1,5 @@
 ---
 title: "My First Hello World!"
-date: 2025-10-09
 categories: [Tech Journey, Personal]
 tags: [hello world, programming, journey, first code]
 ---
