@@ -1,6 +1,8 @@
 ---
 title: "About Me"
 layout: page
+icon: fas fa-info-circle
+order: 4
 description: "I'm Albert Rono — a Software Engineering student and Data Enthusiast passionate about building, learning, and uncovering stories hidden in data."
 ---
 
